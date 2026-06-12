@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\HazardMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\DestroyAfter.cs" />
+    <Compile Include="Assets\Dzeruza\MinimalScifiPack\Documentation\Welcomecard_MinimalScifiPack.cs" />
     <Compile Include="Assets\Scripts\CoinBehavior.cs" />
     <Compile Include="Assets\Scripts\GoalBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
