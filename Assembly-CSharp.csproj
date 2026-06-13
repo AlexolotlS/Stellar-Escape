@@ -69,10 +69,10 @@
     <Compile Include="Assets\Scripts\HazardMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\DestroyAfter.cs" />
-    <Compile Include="Assets\Dzeruza\MinimalScifiPack\Documentation\Welcomecard_MinimalScifiPack.cs" />
     <Compile Include="Assets\Scripts\CoinBehavior.cs" />
     <Compile Include="Assets\Scripts\GoalBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Dzeruza (Spaceship Assets)\MinimalScifiPack\Documentation\Welcomecard_MinimalScifiPack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -84,7 +84,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\Markus Art\Documentation.txt" />
+    <None Include="Assets\Markus Art (Astronaut)\Documentation.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
