@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\deactivateonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deactivateonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\hazardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hazardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\roomdamagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomdamagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\damagedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\interactionboxbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionboxbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeactivateOnStart.cs",
-              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\DeactivateOnStart.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DeactivateOnStart.cs",
-              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\DeactivateOnStart.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DeactivateOnStart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Title": "HazardMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\HazardMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HazardMovement.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\HazardMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HazardMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T19:13:57.496Z",
+              "WhenOpened": "2026-06-23T21:40:14.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RoomDamageTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\RoomDamageTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoomDamageTracker.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\RoomDamageTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoomDamageTracker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:40:14.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DamagedObject.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\DamagedObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagedObject.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\DamagedObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagedObject.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:35:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:31:01.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractionBoxBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\InteractionBoxBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionBoxBehaviour.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\InteractionBoxBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionBoxBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:17:28.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBehaviour.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T19:46:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-20T19:08:05.941Z",
               "EditorCaption": ""
