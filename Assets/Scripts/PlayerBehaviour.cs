@@ -21,6 +21,8 @@ public class PlayerBehaviour : MonoBehaviour
 
     PlayerMovement movement;
 
+    [SerializeField] InteractionBoxBehaviour interactionBox;
+
     void Start()
     {
         animator = GetComponentInChildren<Animator>();
@@ -30,7 +32,9 @@ public class PlayerBehaviour : MonoBehaviour
     }
     void Update()
     {
-
+        if (Input.GetKeyDown(KeyCode.F)) {
+            interactionBox.TryInteract();
+        }
     }
 
     public void win()
@@ -99,4 +103,6 @@ public class PlayerBehaviour : MonoBehaviour
             rb.isKinematic = false;
         }
     }*/
+
+    
 }
