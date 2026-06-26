@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PartManager.cs",
               "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PartManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\PartManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T14:02:38.513Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "Assets\\Scripts\\PortalBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T13:51:46.548Z"
+              "WhenOpened": "2026-06-26T13:51:46.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Assets\\Scripts\\SpaceshipPartBehaviour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T13:48:49.513Z"
+              "WhenOpened": "2026-06-26T13:48:49.513Z",
+              "EditorCaption": ""
             }
           ]
         }
