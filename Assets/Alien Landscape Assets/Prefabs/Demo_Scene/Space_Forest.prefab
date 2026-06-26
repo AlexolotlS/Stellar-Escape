@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5221934666093084118}
   - component: {fileID: 6337678485416017600}
   - component: {fileID: 1615202880871671989}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_2_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 1987193660989127583}
   - component: {fileID: 7092596926526309217}
   - component: {fileID: 2521651156470903826}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_1_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 6335248065277313223}
   - component: {fileID: 7454428907167821885}
   - component: {fileID: 1408618414013604069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Crystal_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 3383774057269264383}
   - component: {fileID: 1651846128234824337}
   - component: {fileID: 4938841734876641659}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rock_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 4617047907448423906}
   - component: {fileID: 2961341455825862722}
   - component: {fileID: 2520732852925845505}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rock_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -577,7 +577,7 @@ GameObject:
   - component: {fileID: 2671485529152130826}
   - component: {fileID: 8738008516958023930}
   - component: {fileID: 1852166926640616409}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_2_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -690,7 +690,7 @@ GameObject:
   - component: {fileID: 4958493460592570562}
   - component: {fileID: 4530066854778865987}
   - component: {fileID: 1265304431335444393}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -803,7 +803,7 @@ GameObject:
   - component: {fileID: 6973040212580704424}
   - component: {fileID: 1060519495800436849}
   - component: {fileID: 7331972603914824298}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_1_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -916,7 +916,7 @@ GameObject:
   - component: {fileID: 208275174849580360}
   - component: {fileID: 7056004127210258650}
   - component: {fileID: 1184023263227873635}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pyramid_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1029,7 +1029,7 @@ GameObject:
   - component: {fileID: 1804963593664630819}
   - component: {fileID: 1156575237912490890}
   - component: {fileID: 688388569651322512}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pyramid_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1142,7 +1142,7 @@ GameObject:
   - component: {fileID: 5834544748206554880}
   - component: {fileID: 4092183156290745522}
   - component: {fileID: 5284792534066794142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pyramid_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 9187059248170356300}
   - component: {fileID: 5186271931468330665}
   - component: {fileID: 1264218996795006373}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1368,7 +1368,7 @@ GameObject:
   - component: {fileID: 1507644075198371047}
   - component: {fileID: 8333124047473645067}
   - component: {fileID: 3368366059509452306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Null_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1481,7 +1481,7 @@ GameObject:
   - component: {fileID: 7281108127593256858}
   - component: {fileID: 4180924438565813890}
   - component: {fileID: 3238480070201862515}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tree_2_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1594,7 +1594,7 @@ GameObject:
   - component: {fileID: 4763611852720889215}
   - component: {fileID: 4045516681259491046}
   - component: {fileID: 5465685474577866365}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_4_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1707,7 +1707,7 @@ GameObject:
   - component: {fileID: 5914694018888142055}
   - component: {fileID: 5298233708585254960}
   - component: {fileID: 2219339384551680848}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Null_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1820,7 +1820,7 @@ GameObject:
   - component: {fileID: 1035096214570793219}
   - component: {fileID: 274087584355759517}
   - component: {fileID: 7689194066306614936}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FirstFloorLeft_1_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1932,7 +1932,7 @@ GameObject:
   - component: {fileID: 3970489578797501089}
   - component: {fileID: 4644671721905859070}
   - component: {fileID: 8046963548756156471}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2023,7 +2023,7 @@ GameObject:
   - component: {fileID: 6933237965747811483}
   - component: {fileID: 8114958264749199371}
   - component: {fileID: 7705192299710717552}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_1_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2136,7 +2136,7 @@ GameObject:
   - component: {fileID: 4277544008889788861}
   - component: {fileID: 1357577680595330855}
   - component: {fileID: 8285208714715034143}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2249,7 +2249,7 @@ GameObject:
   - component: {fileID: 9113839831230998033}
   - component: {fileID: 1811547587456212913}
   - component: {fileID: 6899117374768779390}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Crystal_2_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2362,7 +2362,7 @@ GameObject:
   - component: {fileID: 5536164401961447262}
   - component: {fileID: 7877845045240110441}
   - component: {fileID: 8191886040281333976}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2475,7 +2475,7 @@ GameObject:
   - component: {fileID: 3741352230139154855}
   - component: {fileID: 8993163884981515820}
   - component: {fileID: 8186227386854648068}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2588,7 +2588,7 @@ GameObject:
   - component: {fileID: 7753777850062377732}
   - component: {fileID: 1644450658265598378}
   - component: {fileID: 6514439041102475539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cylinder_1_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2701,7 +2701,7 @@ GameObject:
   - component: {fileID: 9069501353618598204}
   - component: {fileID: 7953423141441191227}
   - component: {fileID: 5306858207637774265}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_2_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2814,7 +2814,7 @@ GameObject:
   - component: {fileID: 4432384083947803722}
   - component: {fileID: 7077724030039561021}
   - component: {fileID: 1065196809434679437}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tree_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2926,7 +2926,7 @@ GameObject:
   - component: {fileID: 5023751953434597847}
   - component: {fileID: 79079565892148533}
   - component: {fileID: 4680780799987404261}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cloner_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3017,7 +3017,7 @@ GameObject:
   - component: {fileID: 3605111409352448586}
   - component: {fileID: 1476460034549525195}
   - component: {fileID: 4732206858114041749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Crystal_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3130,7 +3130,7 @@ GameObject:
   - component: {fileID: 2416404145268747686}
   - component: {fileID: 7633328322087613897}
   - component: {fileID: 6353500865654861179}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3243,7 +3243,7 @@ GameObject:
   - component: {fileID: 4138397456218832651}
   - component: {fileID: 665465700061178958}
   - component: {fileID: 316140026124163946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_1_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3356,7 +3356,7 @@ GameObject:
   - component: {fileID: 1463664218451589647}
   - component: {fileID: 9130806489603777984}
   - component: {fileID: 8122623871799971886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tree_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3469,7 +3469,7 @@ GameObject:
   - component: {fileID: 9094365276260018678}
   - component: {fileID: 862859319101051065}
   - component: {fileID: 8851997257917549133}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Crystal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3582,7 +3582,7 @@ GameObject:
   - component: {fileID: 3847163302068996491}
   - component: {fileID: 6491509991639258450}
   - component: {fileID: 6541303455312644751}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3695,7 +3695,7 @@ GameObject:
   - component: {fileID: 5311215522373908457}
   - component: {fileID: 2994651491524224927}
   - component: {fileID: 1483540029513004911}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Landscape_2_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3808,7 +3808,7 @@ GameObject:
   - component: {fileID: 5168818539423767170}
   - component: {fileID: 4578453299294090544}
   - component: {fileID: 8176036568383273764}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FirstFloorLeft_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3919,7 +3919,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8551833708452050451}
   - component: {fileID: 5833661215561394546}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Space_Forest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
