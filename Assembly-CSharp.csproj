@@ -62,13 +62,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PortalBehavior.cs" />
+    <Compile Include="Assets\Scripts\IInteractable.cs" />
     <Compile Include="Assets\Scripts\HazardBehavior.cs" />
     <Compile Include="Assets\Scripts\TurretBehavior.cs" />
+    <Compile Include="Assets\Scripts\ButtonManager.cs" />
+    <Compile Include="Assets\Scripts\RoomDamageTracker.cs" />
+    <Compile Include="Assets\Scripts\ButtonBehaviour.cs" />
     <Compile Include="Assets\Scripts\LevelTimer.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\spin.cs" />
     <Compile Include="Assets\Scripts\DestroyOnCollision.cs" />
     <Compile Include="Assets\Scripts\HazardMovement.cs" />
+    <Compile Include="Assets\Scripts\InteractionBoxBehaviour.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\DestroyAfter.cs" />
     <Compile Include="Assets\Scripts\SpaceshipPartBehaviour.cs" />
@@ -76,6 +81,7 @@
     <Compile Include="Assets\Scripts\PartManager.cs" />
     <Compile Include="Assets\Scripts\GoalBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\DamagedObject.cs" />
     <Compile Include="Assets\Dzeruza (Spaceship Assets)\MinimalScifiPack\Documentation\Welcomecard_MinimalScifiPack.cs" />
   </ItemGroup>
   <ItemGroup>
