@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\buttonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\roomdamagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomdamagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ButtonBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\ButtonBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonBehaviour.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\ButtonBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:26:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T16:57:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HazardMovement.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\HazardMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HazardMovement.cs",
@@ -50,25 +84,24 @@
               "RelativeToolTip": "Assets\\Scripts\\HazardMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T21:40:14.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T21:40:14.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RoomDamageTracker.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\RoomDamageTracker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoomDamageTracker.cs",
               "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\RoomDamageTracker.cs",
               "RelativeToolTip": "Assets\\Scripts\\RoomDamageTracker.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-22T23:40:14.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DamagedObject.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\DamagedObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DamagedObject.cs",
@@ -80,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
@@ -92,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InteractionBoxBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\InteractionBoxBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionBoxBehaviour.cs",
@@ -104,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PlayerBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBehaviour.cs",
@@ -116,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
