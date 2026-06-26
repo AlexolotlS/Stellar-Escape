@@ -9,11 +9,15 @@ public class PartManager : MonoBehaviour
     [SerializeField] int partsNeeded = 5;
     int partsCollected = 0;
 
-    public void CollectPart() {
+    public void CollectPart()
+    {
         partsCollected = partsCollected + 1;
-        if (partsCollected >= partsNeeded) {
+        
+        if (partsCollected >= partsNeeded)
+        {
             ActivatePortal();
         }
+        
         partCollectedText.text = "Parts Collected: " + partsCollected;
     }
 
