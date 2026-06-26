@@ -1466,6 +1466,19 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &1162564943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162564939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af6d4061fafdc1438b8c0096fa10be3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Portal
+  sceneName: Level 3
 --- !u!1001 &1270789480
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2855,6 +2868,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 630904912958089089, guid: 579531a0107a14290826fb5db2dbbb0d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1162564940}
+    - targetCorrespondingSourceObject: {fileID: 630904912958089089, guid: 579531a0107a14290826fb5db2dbbb0d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1162564943}
     - targetCorrespondingSourceObject: {fileID: 2784371808899313078, guid: 579531a0107a14290826fb5db2dbbb0d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 448995053}
