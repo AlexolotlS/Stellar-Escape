@@ -119,6 +119,46 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &32822947 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+  m_PrefabInstance: {fileID: 669261644}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &32822953
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 32822947}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -951608786083511892, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+--- !u!114 &32822954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 32822947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 751291315}
 --- !u!1001 &99802710
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -673,11 +713,65 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceshipPartUV
       objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: partManager
+      value: 
+      objectReference: {fileID: 751291315}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 1637374185}
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1637374186}
   m_SourcePrefab: {fileID: 100100000, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+--- !u!1 &437556087 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+  m_PrefabInstance: {fileID: 1113528602}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &437556093
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 437556087}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -951608786083511892, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+--- !u!114 &437556094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 437556087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 751291315}
 --- !u!1001 &497688394
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -730,10 +824,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceshipPartUV (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: partManager
+      value: 
+      objectReference: {fileID: 751291315}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 971542428}
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 971542429}
   m_SourcePrefab: {fileID: 100100000, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
 --- !u!1001 &520439509
 PrefabInstance:
@@ -925,10 +1029,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceshipPartUV (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: partManager
+      value: 
+      objectReference: {fileID: 751291315}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 1197666239}
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1197666240}
   m_SourcePrefab: {fileID: 100100000, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
 --- !u!1 &595093605
 GameObject:
@@ -1215,10 +1329,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceshipPartUV (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: partManager
+      value: 
+      objectReference: {fileID: 751291315}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 32822953}
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 32822954}
   m_SourcePrefab: {fileID: 100100000, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
 --- !u!4 &709774619 stripped
 Transform:
@@ -1770,6 +1894,46 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8551833708452050451, guid: b59d0ae955ad5994f937e8ed893b172c, type: 3}
   m_PrefabInstance: {fileID: 373756023}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &971542422 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+  m_PrefabInstance: {fileID: 497688394}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &971542428
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 971542422}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -951608786083511892, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+--- !u!114 &971542429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 971542422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 751291315}
 --- !u!1 &1009784449
 GameObject:
   m_ObjectHideFlags: 0
@@ -2054,10 +2218,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpaceshipPartUV (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8928571230268148097, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      propertyPath: partManager
+      value: 
+      objectReference: {fileID: 751291315}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 437556093}
+    - targetCorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 437556094}
   m_SourcePrefab: {fileID: 100100000, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
 --- !u!1001 &1167259070
 PrefabInstance:
@@ -2234,6 +2408,46 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &1197666233 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+  m_PrefabInstance: {fileID: 554321481}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1197666239
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197666233}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -951608786083511892, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+--- !u!114 &1197666240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197666233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 751291315}
 --- !u!1001 &1216482319
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2579,6 +2793,46 @@ Transform:
   - {fileID: 1497494091}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1637374179 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6525301551585066039, guid: da40d0ca59e2e4a42888d23970ddbed9, type: 3}
+  m_PrefabInstance: {fileID: 377286381}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1637374185
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637374179}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -951608786083511892, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+--- !u!114 &1637374186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1637374179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 751291315}
 --- !u!1001 &1696104709
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2687,6 +2941,10 @@ PrefabInstance:
     - target: {fileID: 6171945801849034060, guid: 60d38e5ba1508894b9fd9dbc13ffaf1c, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8588448782599142814, guid: 60d38e5ba1508894b9fd9dbc13ffaf1c, type: 3}
+      propertyPath: runSpeed
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 8588448782599142814, guid: 60d38e5ba1508894b9fd9dbc13ffaf1c, type: 3}
       propertyPath: jumpHeight
@@ -3154,11 +3412,11 @@ SceneRoots:
   - {fileID: 539533608}
   - {fileID: 1546300936}
   - {fileID: 1594863665}
+  - {fileID: 377286381}
   - {fileID: 497688394}
   - {fileID: 1113528602}
   - {fileID: 669261644}
   - {fileID: 554321481}
-  - {fileID: 377286381}
   - {fileID: 2069458839}
   - {fileID: 751291316}
   - {fileID: 1009784450}

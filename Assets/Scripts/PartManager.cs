@@ -10,7 +10,7 @@ public class PartManager : MonoBehaviour
     int partsCollected = 0;
 
     public void CollectPart() {
-        partsCollected++;
+        partsCollected = partsCollected + 1;
         if (partsCollected >= partsNeeded) {
             ActivatePortal();
         }
