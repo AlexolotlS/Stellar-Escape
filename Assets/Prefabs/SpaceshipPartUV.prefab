@@ -71,6 +71,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8084144230378235089}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8928571230268148097}
   m_SourcePrefab: {fileID: 100100000, guid: 5aa27e2503489cf45b637c013b691cf1, type: 3}
 --- !u!1 &6525301551585066039 stripped
 GameObject:
@@ -96,3 +99,16 @@ MonoBehaviour:
   ReverseX: 0
   ReverseY: 0
   ReverseZ: 0
+--- !u!114 &8928571230268148097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525301551585066039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe6bd1140fafb44482c510d32a0f4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceshipPartBehaviour
+  partManager: {fileID: 0}
