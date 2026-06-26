@@ -100,6 +100,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ButtonBehaviour
   buttonManager: {fileID: 0}
   buttonNumber: 1
+  buttonColorMat: {fileID: 0}
+  buttonObject: {fileID: 5659126743829155806}
+  isLit: 0
 --- !u!1 &5659126743829155806
 GameObject:
   m_ObjectHideFlags: 0
@@ -167,7 +170,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 987992c8051b4fa428e9b506f7ba620d, type: 2}
+  - {fileID: 2100000, guid: 817bf051467256447aef7d4e9d96031f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

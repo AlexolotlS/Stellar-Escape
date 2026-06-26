@@ -51,7 +51,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\IInteractable.cs" />
     <Compile Include="Assets\Scripts\HazardBehavior.cs" />
-    <Compile Include="Assets\Scripts\DeactivateOnStart.cs" />
     <Compile Include="Assets\Scripts\TurretBehavior.cs" />
     <Compile Include="Assets\Scripts\ButtonManager.cs" />
     <Compile Include="Assets\Scripts\RoomDamageTracker.cs" />

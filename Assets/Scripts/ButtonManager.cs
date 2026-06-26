@@ -3,6 +3,10 @@ using UnityEngine;
 public class ButtonManager : MonoBehaviour
 {
     [SerializeField] GameObject[] doors;
+    [SerializeField] RoomDamageTracker roomDamageTracker;
+    [SerializeField] GameObject winScreen;
+    [SerializeField] bool opensDoors = true;
+    [SerializeField] bool winsGame = false;
     [SerializeField] float maxButtons;
     int currButton = 1;
 
@@ -12,10 +16,15 @@ public class ButtonManager : MonoBehaviour
         }
     }
 
+    private void Win() {
+        winScreen.SetActive(true);
+    }
+
     public void CheckButton(int button) {
         if (button == currButton) {
-            if (currButton >= maxButtons) {
-                OpenDoors();
+            if (currButton >= maxButtons && roomDamageTracker.IsRoomFixed()) {
+                if (opensDoors) OpenDoors();
+                if (winsGame) Win();
             } else {
                 currButton++;
                 print("CORRECT BUTTON PRESSED");
