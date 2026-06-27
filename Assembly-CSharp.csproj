@@ -82,7 +82,6 @@
     <Compile Include="Assets\Scripts\GoalBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
     <Compile Include="Assets\Scripts\DamagedObject.cs" />
-    <Compile Include="Assets\Dzeruza (Spaceship Assets)\MinimalScifiPack\Documentation\Welcomecard_MinimalScifiPack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
