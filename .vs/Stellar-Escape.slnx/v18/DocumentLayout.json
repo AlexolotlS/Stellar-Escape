@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\leveltimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leveltimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kern\\desktop\\gmu\\game310\\stellar escape unity\\stellar-escape\\assets\\scripts\\partmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBehaviour.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PlayerBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBehaviour.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T01:37:20.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\LevelTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelTimer.cs",
+              "ToolTip": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\LevelTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelTimer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T01:36:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PartManager.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PartManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PartManager.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PortalBehavior.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\PortalBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PortalBehavior.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SpaceshipPartBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\Kern\\Desktop\\GMU\\GAME310\\Stellar Escape Unity\\Stellar-Escape\\Assets\\Scripts\\SpaceshipPartBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpaceshipPartBehaviour.cs",

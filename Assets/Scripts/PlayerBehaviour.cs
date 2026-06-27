@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using TMPro;
 using UnityEngine;
 
@@ -22,6 +23,7 @@ public class PlayerBehaviour : MonoBehaviour
     PlayerMovement movement;
 
     [SerializeField] InteractionBoxBehaviour interactionBox;
+    [SerializeField] LevelTimer timer;
 
     void Start()
     {
@@ -62,6 +64,8 @@ public class PlayerBehaviour : MonoBehaviour
         print("You Died");
         //this.enabled = false;
         //animator.SetBool("isGrounded", false);
+
+        if (timer != null) timer.ResetTimer();
 
         movement.ResetVelocity();
 

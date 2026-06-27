@@ -4071,6 +4071,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4682993161323216645, guid: 60d38e5ba1508894b9fd9dbc13ffaf1c, type: 3}
+      propertyPath: timer
+      value: 
+      objectReference: {fileID: 851060096}
+    - target: {fileID: 4682993161323216645, guid: 60d38e5ba1508894b9fd9dbc13ffaf1c, type: 3}
       propertyPath: coinText
       value: 
       objectReference: {fileID: 400622885}

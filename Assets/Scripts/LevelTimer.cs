@@ -19,10 +19,14 @@ public class LevelTimer : MonoBehaviour {
         if (timer < 0) {
             timerText.text = "TIME UP";
             playerBehaviour.die();
-            timer = seconds;
+            ResetTimer();
         } else {
             timer -= Time.deltaTime;
             timerText.text = "Time Left: " + Mathf.Round(timer).ToString();
         }
+    }
+
+    public void ResetTimer() {
+        timer = seconds;
     }
 }
